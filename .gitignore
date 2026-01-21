@@ -29,7 +29,6 @@ lerna-debug.log*
 pnpm-debug.log*
 
 # Package manager lock files
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-store/
@@ -880,7 +879,6 @@ venv.bak/
 
 # Data files
 *.csv
-*.json
 *.xml
 *.parquet
 data/
